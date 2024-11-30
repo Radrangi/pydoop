@@ -33,7 +33,7 @@
   <url>https://crs4.github.io/pydoop/</url>
 
   <properties>
-    <parquet.version>1.7.0</parquet.version>
+    <parquet.version>1.14.4</parquet.version>
   </properties>
 
   <dependencies>
