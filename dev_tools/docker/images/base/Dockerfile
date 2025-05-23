@@ -2,7 +2,7 @@
 #
 # A basic java machine with java, basic services and iv6 disabled
 #----------------------------------------------------
-FROM debian:latest
+FROM debian:12.11
 
 #----------------------------------------------------
 # Install java and basic services
